@@ -14,4 +14,5 @@ Every change must be bookended by the signature syntax. **Note:** We strictly pr
 Never delete a previous contributor's signature. If you modify a block, add your signature to the list. History is more important than "clean" looking comments.
 
 ### 3. Private Forks
-If you move this code to a private environment, you are legally bound by **Clause 5 (The Mirror Obligation)** to maintain a real-time public fork under the **S&SYP License**.
+If you move this code to a private environment, you are legally bound by **Clause 5 (The Mirror Obligation)** to maintain a real-time public fork under the **S&SYP License**
+"https://github.com/Faraway-Systems/Licenses/blob/main/S%26SYP%20License-1.pdf" .
