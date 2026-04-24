@@ -1,0 +1,28 @@
+SYP License (Sign Your Part)
+Version 1.0 The Permissive Sister License to S&SYP
+By FlocreeperBytin From Faraway Systems
+1. Preamble
+The SYP (Sign Your Part) License is a permissive software license designed for developers who value transparent authorship and human history. It allows for free use and modification in public environments but requires a "Mirror Obligation" if the work is moved to a private environment.
+2. Mandatory Signage (The "Sign" Clause)
+You MUST state your contribution clearly within the source code. All signage must be implemented as source code comments and bookended using the mandatory signature syntax:
+Original Work: // Original work by [Name] in [Year] ... // Original work by [Name] in [Year] \\
+Refinements/Fixes: // Code by [Original] refined/bugfixed by [Your Name] [Year] ... // [Original] bugfixed by [Your Name] [Year] \\
+General Contributions: // Contribution by [Name] in [Year] ... // Contribution by [Name] in [Year] \\
+3. Permanent Provenance
+You are strictly prohibited from removing the signatures of previous contributors. Credits must be maintained as a "chain of authorship." If you modify a block, you must append your signature to the existing list within that block’s header and footer.
+4. Permissive Usage & Public Integrity
+This license is permissive. You are free to use, modify, and distribute the software for any purpose, provided that:
+The original code remains open and accessible to the public.
+All signage required by Clause 2 is preserved.
+5. The Mirror Obligation (The S&SYP Trigger)
+If this software (or any part of it) is modified within a private fork or environment not accessible to the public:
+The author MUST create and maintain a separate, public fork of their modifications.
+This public mirror MUST be licensed under the full S&SYP (Show & Sign Your Part) License.
+This public mirror must be kept updated relative to the private work and cannot be abandoned, deleted, or made private as long as the private fork exists or is in use.
+6. Disclaimer of Warranty
+There is absolutely no warranty for this software. It is provided "as-is" without any express or implied warranties. The entire risk as to the quality and performance of the software is with the user.
+7. Protection of Likeness
+The names or likenesses of the owner(s) or contributors may not be used to endorse or promote any product or fork derived from this software without specific, prior written permission from the individual(s).
+8. CopyRight Holders
+All SYP code forked to S&SYP must retain the original copyright notices of SYP code failure to do so is a failure of respecting the license
+
