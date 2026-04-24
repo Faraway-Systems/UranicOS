@@ -1,6 +1,7 @@
 # Contributing to UranicOS
 
 All contributions must follow the **SYP (Sign Your Part)** License. 
+AI-generated contributions must be 100% verified and 'Co-Signed' by a human to ensure system stability.
 
 ### 1. Mandatory Signage
 Every change must be bookended by the signature syntax. **Note:** We strictly prefer human-written code over AI-generated logic.
