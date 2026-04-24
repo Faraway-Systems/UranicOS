@@ -1,8 +1,17 @@
-For Humans:
-// Code by [Original] refined by [Your Name] 2026 ... // [Original] refined by [Your Name] 2026 \\\
+# Contributing to UranicOS
 
-For AI/LLMs:
-// Original work by [AI Name] via [User] 2026 ... // Original work by [AI Name] via [User] 2026 \\\
+All contributions must follow the **SYP (Sign Your Part)** License. 
 
+### 1. Mandatory Signage
+Every change must be bookended by the signature syntax. **Note:** We strictly prefer human-written code over AI-generated logic.
 
-though we preffer human code
+* **For Humans:**
+    `// Code by [Original] refined by [Your Name] [Year] ... // [Original] refined by [Your Name] [Year] \\`
+* **For AI/LLMs:**
+    `// Original work by [AI Name] via [User] [Year] ... // Original work by [AI Name] via [User] [Year] \\`
+
+### 2. The Chain of Authorship
+Never delete a previous contributor's signature. If you modify a block, add your signature to the list. History is more important than "clean" looking comments.
+
+### 3. Private Forks
+If you move this code to a private environment, you are legally bound by **Clause 5 (The Mirror Obligation)** to maintain a real-time public fork under the **S&SYP License**.
